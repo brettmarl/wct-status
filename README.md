@@ -1,4 +1,4 @@
-#DATE 2023-7-15
+# DATE 2023-7-15
 
 # Fire Ban
 Fires are currently banned until futher notice. Use of campstoves is OK. 
