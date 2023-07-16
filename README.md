@@ -15,7 +15,7 @@ A gravel bar has formed across the mouth of the Klanawa River allowing hikers to
 Hikers reported having trouble finding water at Dare Creek. Fill up at Cribs Creek.
 
 # Wildlife - July 16
-Bear reported charged hikers at Klanawa. Lots of garbage there. Please do not leave food and/or garbage at campsites.
+Bear reportedly charged hikers at Klanawa River. Lots of garbage also reported there. Please do not leave food and/or garbage at campsites.
 
 # Fogust - July 16
 The summer weather pattern of fog in the evening and morning and sunshine in the afternoon has started. This results in cooler temperatures and damp conditions on the trail. Use caution on wet boardwalks and beaches.
