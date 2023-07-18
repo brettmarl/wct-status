@@ -1,21 +1,18 @@
 # DATE 2023-07-17T00:00:00-07:00
 
-# Fire Ban - June 06
+# FIRE BAN - June 06
 All fires are prohibited until futher notice. Hikers must use campstoves for cooking.
 
-# Water Conditions - July 08
-All the creeks and Rivers along the West Coast Trail are running very low right now due to the unusually dry conditions, but they are all running and the majority have good, if not great water. Black River (KM8), Cheewhat River(KM36), and Adrenaline Creek (KM55) should be avoided.
+# KLANAWA CABLE CAR - July 10
+A gravel bar has formed across the mouth of the Klanawa River allowing hikers to bypass the cable car. All other cable cars can be skipped due to low water levels in creeks.
 
-A limited amount of filtered water may be available at the Pachena Point Lightstation. Ask the Lightkeepers if you need water. 
+# WATER SOURCES - July 15
+All creeks and rivers are running very low due to unusually dry conditions, but water is still available at major creeks and campsites. The Black River (KM8), Cheewhat River(KM36), and Adrenaline Creek (KM55) should be avoided due to their bad taste. A limited amount of filtered water may be available at the Pachena Point Lightstation. Please ask the Lightkeepers if you need water. 
 
-# Klanawa Cable Car - July 10
-A gravel bar has formed across the mouth of the Klanawa River allowing hikers to avoid the cable car!
+# WILDLIFE - July 16
+Bears have been frequently reported in the following areas: Pachena Bay (KM2-KM4), Tsusiat Falls to Nitinaht Narrows, and Walbran Creek. Please do not leave garbage at campsites or in bear bins as this attracts bears and frequent bear encounters may result in campsite closures.
 
-# Dare Creek (KM40) - July 15
-Hikers reported having trouble finding water at Dare Creek. Fill up at Cribs Creek.
+Whales have been seen frequently at the Sealion Rocks viewpoint (KM9.5) and between Michigan Creek and Tsusiat Falls. 
 
-# Wildlife - July 16
-Bear reportedly charged hikers at Klanawa River. Lots of garbage also reported there. Please do not leave food and/or garbage at campsites.
-
-# Fogust - July 16
-The summer weather pattern of fog in the evening and morning and sunshine in the afternoon has started. This results in cooler temperatures and damp conditions on the trail. Use caution on wet boardwalks and beaches.
+# WEST COAST FOG - July 17
+A common weather patten in late July and August is fog in the evening and morning and then sunshine in the afternoon. Use caution on wet boardwalks and beaches.
