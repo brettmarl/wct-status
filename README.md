@@ -12,6 +12,7 @@ All creeks and rivers are running very low due to unusually dry conditions, but 
 # WILDLIFE - July 16
 Bears have been frequently reported in the following areas: Pachena Bay (KM2-KM4), Tsusiat Falls to Nitinaht Narrows, and Walbran Creek. Please do not leave garbage at campsites or in bear bins as this attracts bears and frequent bear encounters may result in campsite closures.
 
+
 Whales have been seen frequently at the Sealion Rocks viewpoint (KM9.5) and between Michigan Creek and Tsusiat Falls. 
 
 # WEST COAST FOG - July 17
