@@ -1,7 +1,7 @@
 # DATE 2023-07-17T00:00:00-07:00
 
 # Fire Ban - June 06
-All fires are prohibited until futher notice. Hikers must use campstoves for cooking..
+All fires are prohibited until futher notice. Hikers must use campstoves for cooking.
 
 # Water Conditions - July 08
 All the creeks and Rivers along the West Coast Trail are running very low right now due to the unusually dry conditions, but they are all running and the majority have good, if not great water. Black River (KM8), Cheewhat River(KM36), and Adrenaline Creek (KM55) should be avoided.
