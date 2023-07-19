@@ -17,5 +17,5 @@ Whales have been seen frequently at the Sealion Rocks viewpoint (KM9.5) and betw
 # WEST COAST FOG - July 17
 A common weather patten in late July and August is fog in the evening and morning and then sunshine in the afternoon. Use caution on wet boardwalks and beaches.
 
-# DARLING RIVER WASP NEST
+# DARLING RIVER WASP NEST - July 19
 Multiple hikers have reported being stung by wasps near the waterfall at the Darling River. A nest is possibly located in a pile of old driftwood upstream near the waterfall. Use caution.
