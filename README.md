@@ -1,9 +1,9 @@
 # DATE 2023-07-19T00:00:00-07:00
 
-# July 19 - DARLING RIVER WASP NEST
+# JULY 19 - DARLING RIVER WASP NEST
 Multiple hikers have reported being stung by wasps near the waterfall at the Darling River. A nest is possibly located in a pile of old driftwood upstream near the waterfall. Use caution.
 
-# July 17 - WEST COAST FOG
+# JULY 17 - WEST COAST FOG
 A common weather patten in late July and August is fog in the evening and morning and then sunshine in the afternoon. Use caution on wet boardwalks and beaches.
 
 # July 16 - WILDLIFE
