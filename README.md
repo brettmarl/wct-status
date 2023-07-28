@@ -1,5 +1,8 @@
 # DATE 2023-07-19T00:00:00-07:00
 
+# HIGH RIVER LEVELS
+Due to the recent rains the rivers are running with more water again. Crossing the Walbran can be tricky and the gravel bar that had formed at the Klanawa River mouth is now gone so the cable car is required.
+
 # OVERGROWN TRAIL SECTIONS - July 26
 Reports from hikers indicate that the trail is badly overgrown at two points on the trail: Dare Beach (KM40) to Cribs Creek (KM41.5) and Tsusiat Falls (KM25) to the Beach Access at KM29. The section from Tsusiat Falls to Hole in the Wall is reported to be extremely bad.
 
@@ -19,10 +22,6 @@ Whales have been seen frequently at the Sealion Rocks viewpoint (KM9.5) and betw
 
 # WATER SOURCES - July 15
 All creeks and rivers are running very low due to unusually dry conditions, but water is still available at major creeks and campsites. The Black River (KM8), Cheewhat River(KM36), and Adrenaline Creek (KM55) should be avoided due to their bad taste. A limited amount of filtered water may be available at the Pachena Point Lightstation. Please ask the Lightkeepers if you need water. 
-
-
-# KLANAWA CABLE CAR - July 10
-A gravel bar has formed across the mouth of the Klanawa River allowing hikers to bypass the cable car. All other cable cars can be skipped due to low water levels in creeks.
 
 # FIRE BAN - June 6
 All fires are prohibited until futher notice. Hikers must use campstoves for cooking.
