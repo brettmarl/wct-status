@@ -1,4 +1,7 @@
-# DATE 2023-07-27T00:00:00-07:00
+# DATE 2023-07-29T00:00:00-07:00
+
+# RIVER LEVELS LOW AGAIN - July 29
+Hikers this morning report that the Klanawa Cable Car can once again be skipped as a gravel bar has reformed.
 
 # HIGH RIVER LEVELS - July 27
 Due to the recent rains the rivers are running with more water again. Crossing the Walbran can be tricky and the gravel bar that had formed at the Klanawa River mouth is now gone so the cable car is required.
