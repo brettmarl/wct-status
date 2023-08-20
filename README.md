@@ -1,4 +1,9 @@
-# DATE 2023-07-29T00:00:00-07:00
+# DATE 2023-08-19T00:00:00-07:00
+
+# SMOKY SKIES WEATHER ALERT
+The West Coast Trail region is being impacted or will likely be impacted by wildfire smoke over the next 24-48 hours.
+Winds across the province are expected to shift several times in the next 24-hours. Expect smoke conditions to also change rapidly over both space and time.
+The next bulletin update will be available August 20, 2023.
 
 # RIVER LEVELS LOW AGAIN - July 29
 Hikers this morning report that the Klanawa Cable Car can once again be skipped as a gravel bar has reformed.
