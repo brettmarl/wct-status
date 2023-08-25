@@ -1,4 +1,4 @@
-# DATE 2023-08-20T00:00:00-07:00
+# DATE 2023-08-25T00:00:00-07:00
 
 # SMOKE & RAIN IN THE FORECAST - August 25
 The West Coast Trail may see a brief heat wave (24-26 deg) and smokey conditions Sat Aug 26 - Sun Aug 27. 
