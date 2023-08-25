@@ -1,7 +1,9 @@
 # DATE 2023-08-20T00:00:00-07:00
 
-# POTENTIAL RAIN IN THE FORECAST - August 23
-The West Coast Trail region might see multiple days of rain (Aug 28-30) for the first time since May 1st. Use caution on wet boardwalks and beaches, be prepared for significant and sudden changes in river levels, and DO NOT camp in the caves on the north side of Walbran Creek or at Cullite Cove campsite as you can be trapped by rising river levels.
+# SMOKE & RAIN IN THE FORECAST - August 25
+The West Coast Trail may see a brief heat wave (24-26 deg) and smokey conditions Sat Aug 26 - Sun Aug 27. 
+
+Rain is in the forecast for Mon Aug 28 and Thu Aug 31. Use caution on wet boardwalks and beaches, be prepared for significant and sudden changes in river levels, and DO NOT camp in the caves on the north side of Walbran Creek or at Cullite Cove campsite as you can be trapped by rising river levels.
 
 # BEAR IN AREA WARNINGS - August 20
 Warnings are in place due to frequent bear encounters between Pachena Bay and Nitinaht Narrows. A large number of sightings have happened between Pachena Bay and Michigan Creek, at Tsusiat Falls, and around Tsuquadra (KM30). When hiking in these areas try to make lots of noise and travel in groups. 
