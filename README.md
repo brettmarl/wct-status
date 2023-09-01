@@ -1,6 +1,6 @@
 # DATE 2023-09-01T00:00:00-07:00
 
-# SEPTEMBER RAINS - Aeptember 01
+# SEPTEMBER RAINS - September 01
 After 4 months of virtually no rain, September has several days of rain in the long range forecast. Use caution on wet boardwalks, boulders, and beaches. During rain be prepared for significant and sudden changes in river levels. Rising river levels can leave you trapped or cut off from the main trail so DO NOT camp in the caves on the north side of Walbran Creek or at the Cullite Cove campsite.
 
 # BEAR IN AREA WARNINGS - August 20
