@@ -1,7 +1,10 @@
-# DATE 2023-09-01T00:00:00-07:00
+# DATE 2023-09-17T00:00:00-07:00
 
-# SEPTEMBER RAINS - September 01
-After 4 months of virtually no rain, September has several days of rain in the long range forecast. Use caution on wet boardwalks, boulders, and beaches. During rain be prepared for significant and sudden changes in river levels. Rising river levels can leave you trapped or cut off from the main trail so DO NOT camp in the caves on the north side of Walbran Creek or at the Cullite Cove campsite.
+# THE FIRE BAN IS STILL IN EFFECT - September 17
+NO FIRES PERMITTED ANYWHERE ON THE WCT. Campsites are being monitored by Park Wardens, Trail Guardians, and Parks Staff. 
+
+# THE RAINS OF SEPTEMBER - September 17
+Rain is now in the forecast more regularly with significant rain in the long range forecast for Sept 22-25. Use extreme caution on wet boardwalks, boulders, and beaches. Be prepared for significant and sudden changes in river levels from one day to the next. Rising river levels can leave you trapped or cut off from the main trail so DO NOT camp in the caves on the north side of Walbran Creek or at the Cullite Cove campsite.
 
 # BEAR IN AREA WARNINGS - August 20
 Warnings are in place due to frequent bear encounters between Pachena Bay and Nitinaht Narrows. A large number of sightings have happened between Pachena Bay and Darling River, at Tsusiat Falls, and around Tsuquadra (KM30). When hiking in these areas try to make lots of noise and travel in groups. 
