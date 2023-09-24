@@ -1,4 +1,7 @@
-# DATE 2023-09-17T00:00:00-07:00
+# DATE 2023-09-24T00:00:00-07:00
+
+# MAJOR WINDSTORM WARNING - September 24
+Winds tonight (Sunday Sept 24) are forecasted to reach near hurricane conditions. Use extreme caution in the forest and beware of falling branches and trees. When camping, set up your tent behind something that proveides shelter from the Southeast (the direction of land across the Juan de Fuca Strait) State). Wind strength is forecasted to reduce Monday morning but will remain very strong through Tuesday.
 
 # THE FIRE BAN IS STILL IN EFFECT - September 17
 NO FIRES PERMITTED ANYWHERE ON THE WCT. Campsites are being monitored by Park Wardens, Trail Guardians, and Parks Staff. 
