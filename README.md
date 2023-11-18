@@ -1,6 +1,6 @@
 # DATE 2023-10-08T00:00:00-07:00
 
-# WINTER 2023-2024 - 08 October
+# WINTER 2023-2024
 The West Coast Trail is closed until 01 MAY 2024
 
 See our 2024 TIDE & PLANNING CALENDAR on the WCT Facebook page 10 OCTOBER 2023 to select your dates and ensure Owen Point is passable! (Look in the FILES section)
