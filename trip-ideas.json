@@ -12,20 +12,7 @@
     "6b": ["wp_thrasher", "wp_cullite_cove", "wp_bonilla_pt", "wp_nitinat", "wp_klanawa", "wp_tsocowis"],
     "7":  ["wp_thrasher", "wp_camper_bay", "wp_cullite_cove", "wp_walbran_creek", "wp_cribs", "wp_tsusiat_falls", "wp_darling"],
     "7b": ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_carmanah_creek", "wp_nitinat", "wp_tsusiat_falls", "wp_tsocowis"],
-
-    "13":["wp_thrasher",
-    "wp_camper_bay",
-    "wp_cullite_cove",
-    "wp_walbran_creek",
-    "wp_bonilla_pt",
-    "wp_carmanah_creek",
-    "wp_cribs",
-    "wp_nitinat",
-    "wp_tsusiat_falls",
-    "wp_klanawa",
-    "wp_tsocowis",
-    "wp_darling",
-    "wp_michigan"]
+    "13":["wp_thrasher",     "wp_camper_bay",     "wp_cullite_cove",     "wp_walbran_creek",     "wp_bonilla_pt",     "wp_carmanah_creek",     "wp_cribs",     "wp_nitinat",     "wp_tsusiat_falls",     "wp_klanawa",     "wp_tsocowis",     "wp_darling",    "wp_michigan"]
 
   },
 
