@@ -1,0 +1,46 @@
+{
+  "redame": "all suggestions are assumed NOBO and will be reversed at runtime",
+  "full": {
+    "1":  ["wp_nitinat"],
+    "2":  ["wp_camper_bay", "wp_klanawa"],
+    "3":  ["wp_camper_bay", "wp_cribs", "wp_tsocowis"],
+    "4":  ["wp_camper_bay", "wp_walbran_creek", "wp_cribs", "wp_tsocowis"],
+    "4b": ["wp_camper_bay", "wp_bonilla_pt", "wp_nitinat", "wp_tsocowis"],
+    "5":  ["wp_camper_bay", "wp_walbran_creek", "wp_cribs", "wp_tsusiat_falls", "wp_darling"],
+    "5b": ["wp_thrasher", "wp_cullite_cove", "wp_carmanah_creek", "wp_nitinat", "wp_tsocowis"],
+    "6":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_cribs", "wp_tsusiat_falls", "wp_michigan"],
+    "6b": ["wp_thrasher", "wp_cullite_cove", "wp_bonilla_pt", "wp_nitinat", "wp_klanawa", "wp_tsocowis"],
+    "7":  ["wp_thrasher", "wp_camper_bay", "wp_cullite_cove", "wp_walbran_creek", "wp_cribs", "wp_tsusiat_falls", "wp_darling"],
+    "7b": ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_carmanah_creek", "wp_nitinat", "wp_tsusiat_falls", "wp_tsocowis"],
+
+    "13":["wp_thrasher",
+    "wp_camper_bay",
+    "wp_cullite_cove",
+    "wp_walbran_creek",
+    "wp_bonilla_pt",
+    "wp_carmanah_creek",
+    "wp_cribs",
+    "wp_nitinat",
+    "wp_tsusiat_falls",
+    "wp_klanawa",
+    "wp_tsocowis",
+    "wp_darling",
+    "wp_michigan"]
+
+  },
+
+  "south_half": {
+    "1":  ["wp_walbran_creek"],
+    "2":  ["wp_camper_bay", "wp_carmanah_creek"],
+    "3":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek"],
+    "4":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_carmanah_creek" ]
+  },
+ 
+  "north_half": {
+    "1":  ["wp_tsocowis"],
+    "2":  ["wp_tsusiat_falls", "wp_tsocowis"],
+    "3":  ["wp_tsusiat_falls", "wp_klanawa", "wp_darling"],
+    "4":  ["wp_tsusiat_falls", "wp_klanawa", "wp_tsocowis", "wp_michigan"]
+  }
+
+}
