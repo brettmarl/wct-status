@@ -13,7 +13,11 @@
     "6b": ["wp_thrasher", "wp_cullite_cove", "wp_bonilla_pt", "wp_nitinat", "wp_klanawa", "wp_darling"],
     "7":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_cribs", "wp_nitinat", "wp_tsusiat_falls", "wp_darling"],
     "7b": ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_carmanah_creek", "wp_nitinat", "wp_tsocowis", "wp_michigan"],
-
+    "8":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_cribs", "wp_nitinat", "wp_tsusiat_falls", "wp_tsusiat_falls", "wp_darling"],
+    "9":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_walbran_creek", "wp_cribs", "wp_nitinat", "wp_tsusiat_falls", "wp_tsusiat_falls", "wp_darling"],
+    "10":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_walbran_creek", "wp_cribs", "wp_nitinat", "wp_tsusiat_falls", "wp_tsusiat_falls", "wp_tsocowis", "wp_darling"],
+    "11":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_walbran_creek", "wp_cribs", "wp_nitinat", "wp_tsusiat_falls", "wp_tsusiat_falls", "wp_tsocowis", "wp_tsocowis", "wp_darling"],
+    "12":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_walbran_creek", "wp_cribs", "wp_nitinat", "wp_tsusiat_falls", "wp_tsusiat_falls", "wp_tsusiat_falls", "wp_tsocowis", "wp_tsocowis", "wp_darling"],
     "13":["wp_thrasher",
     "wp_camper_bay",
     "wp_cullite_cove",
@@ -34,14 +38,21 @@
     "1":  ["wp_walbran_creek"],
     "2":  ["wp_camper_bay", "wp_carmanah_creek"],
     "3":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek"],
-    "4":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_carmanah_creek" ]
+    "4":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_carmanah_creek" ],
+    "5":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_walbran_creek", "wp_carmanah_creek" ],
+    "6":  ["wp_thrasher", "wp_camper_bay", "wp_walbran_creek", "wp_walbran_creek", "wp_carmanah_creek", "wp_cribs"]
+
   },
  
   "north_half": {
     "1":  ["wp_tsocowis"],
     "2":  ["wp_tsusiat_falls", "wp_tsocowis"],
     "3":  ["wp_tsusiat_falls", "wp_klanawa", "wp_darling"],
-    "4":  ["wp_tsusiat_falls", "wp_klanawa", "wp_tsocowis", "wp_michigan"]
+    "4":  ["wp_tsusiat_falls", "wp_klanawa", "wp_tsocowis", "wp_michigan"],
+    "5":  ["wp_tsusiat_falls", "wp_tsusiat_falls", "wp_klanawa", "wp_tsocowis", "wp_michigan"],
+    "6":  ["wp_tsusiat_falls", "wp_tsusiat_falls", "wp_klanawa", "wp_tsocowis", "wp_tsocowis","wp_michigan"]
+
+
   }
 
 }
