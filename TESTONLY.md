@@ -1,7 +1,7 @@
 # DATE 2023-07-19T00:00:00-07:00
 
 # OVERGROWN TRAIL SECTIONS - July 26
-Reports from hikers indicate that the trail is badly overgrown at two points on the trail: Dare Beach (KM40) to Cribs Creek (KM41.5) and Tsusiat Falls (KM25) to the Beach Access at KM29. The section from Tsusiat Falls to Hole in the Wall is reported to be extremely bad.
+Reports from hikers indicate that the trail is badly overgrown at two points on the trail: Dare Beach *map!40* to Cribs Creek *map!41.5* and Tsusiat Falls (KM25) to the Beach Access at KM29. The section from Tsusiat Falls to Hole in the Wall is reported to be extremely bad.
 
 [thrasher gordon](https://www.westcoasttrail.app/a/segment/thrasher_gordon)
 
