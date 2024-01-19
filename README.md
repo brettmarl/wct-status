@@ -1,4 +1,4 @@
-# DATE 2024-01-04T00:00:00-07:00
+# DATE 2024-01-04T00:00:00-07:01
 
 # WINTER 2023-2024
 The West Coast Trail is closed until 01 MAY 2024
