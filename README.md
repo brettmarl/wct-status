@@ -8,4 +8,4 @@ For 2024 - two trail sections are confirmed to remain badly overgrown. Tsusiat F
 
 -
 
-Many windfalls due to winter storms. First Nation trail guardians will hard at work to clear the trail starting in early April.
+Many windfalls due to winter storms. First Nation trail guardians will be hard at work to clear the trail starting in early April.
