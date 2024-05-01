@@ -1,8 +1,10 @@
-# DATE 2024-01-26T00:00:00-07:01
+# DATE 2024-04-30T00:00:00-07:01
 
-# WINTER 2024
-- The West Coast Trail is closed until 01 MAY 2024
+# 2024 MAY 1st UPDATE
+- The West Coast Trail is reported to be in great condition with no major issues.
 
-- For 2024 - two trail sections are confirmed to remain badly overgrown. Tsusiat Falls (KM25) to the Beach Access at KM29 and Dare Beach (KM40) to Cribs Creek (KM41.5) 
+- Two trail sections are likely still badly overgrown. Tsusiat Falls (KM25) to the Beach Access at KM29 and Dare Beach (KM40) to Cribs Creek (KM41.5) If you hike either of these sections please let us know the conditions.
 
-- Many windfalls due to winter storms. First Nation trail guardians will be hard at work to clear the trail starting in early April.
+- First Nation trail guardianss have been hard at work for the past 3 weeks clearing the trail. All windfalls are cleared to KM25 but no reports of KM25-50 or KM50-75 have been received yet.
+
+- Use extreme caution in wet conditions as all wooden surfaces get very slippery over the winter without all the foot traffic.
