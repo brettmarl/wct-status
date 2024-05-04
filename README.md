@@ -1,8 +1,9 @@
-# DATE 2024-04-30T00:00:00-07:01
+# DATE 2024-05-04T00:00:00-07:01
 
-# 2024 MAY 1st UPDATE
-- The West Coast Trail is reported to be in great condition with no major issues.
+# 05 MAY
+- Multiple hikers have reported a beached whale near KM26. Use extreme caution in the area as the carcass will attract predators (bears, wolves, and cougars).
 
+# 01 MAY
 - Two trail sections are likely still badly overgrown. Tsusiat Falls (KM25) to the Beach Access at KM29 and Dare Beach (KM40) to Cribs Creek (KM41.5) If you hike either of these sections please let us know the conditions.
 
 - First Nation trail guardians have been hard at work for the past 3 weeks clearing the trail. All windfalls are cleared to KM25 but no reports of KM25-50 or KM50-75 have been received yet.
