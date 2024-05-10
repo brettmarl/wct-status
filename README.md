@@ -1,4 +1,4 @@
-# DATE 2024-05-04T00:00:00-07:01
+# DATE 2024-05-05T10:00:00-07:00
 
 # 05 MAY
 - Multiple hikers have reported a beached whale near KM26. Use extreme caution in the area as the carcass will attract predators (bears, wolves, and cougars).
