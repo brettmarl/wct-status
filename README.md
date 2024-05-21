@@ -1,7 +1,7 @@
 # DATE 2024-05-21T10:00:00-07:00
 
 # 21 MAY
-- Carmanah Creek cable car out of service. Carmanah Creek is flooding with the recent rains and the rope is off the pully on the south side making the cable car non-operational. Parks Canada expects to get it repaired soon but no timeline has been provided. If attempting to cross the creek uses extreme caution. The safest option is to wait at Carmanah Creek camp on the north side or Bonilla Creek camp on the south side until at least tomorrow when the water levels should drop.
+- Carmanah Creek cable car out of service. Carmanah Creek is flooding with the recent rains and the rope is off the pully on the south side making the cable car non-operational. Parks Canada expects to get it repaired soon but no timeline has been provided. If attempting to cross the creek use extreme caution. The safest option is to wait at Carmanah Creek camp on the north side or Bonilla Creek camp on the south side until at least tomorrow when the water levels should drop.
 
 # 05 MAY
 - Multiple hikers have reported a beached whale near KM26. Use extreme caution in the area as the carcass will attract predators (bears, wolves, and cougars).
