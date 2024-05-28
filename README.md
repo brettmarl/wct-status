@@ -1,7 +1,7 @@
 # DATE 2024-05-27T10:00:00-07:00
 
 # 27 MAY HIKER ID LOST
-- A hiker reported losing their ID and cash in a ziplock bag somewhere between Darling and Tsocowis Cabin (KM 14-16). If found - please get in touch so we can help reunite with it's owner. 
+- A hiker reported losing their ID and cash in a ziplock bag somewhere between Darling and Tsocowis Cabin (KM 14-16). If found - please get in touch so we can help reunite with its owner. 
 
 # 24 MAY CARMANAH CREEK UPDATE
 - Carmanah Creek cable car may be out of service due to recent issues with the line coming off the pulley on the south tower. Currently it is working. If Carmanah Creek floods during rainy weather, and the cable car is out of service, it many be extremely dangerous to attempt to cross the creek and hikers should be prepared to wait until water levels are lower. Parks Canada is aware of the issue and expects to get it repaired soon. 
