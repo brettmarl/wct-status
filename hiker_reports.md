@@ -1,3 +1,7 @@
+# 11 JULY - TRAIL CONDITION  
+Location: KM72  
+The old rusty barrel that has marked the high point for decades at KM72 is missing and has been rolled down the hill. 
+
 # 11 JULY - LADDER  
 Location: Cullite area   
 The ladder missing multiple runs and the ones remaining being loose. I am 5’2 and it was a struggle to pull myself up with a heavy pack. I did it but I am also of average fitness. For elderly or children, this is a major concern. I hope writing this gets the issue addressed before someone gets hurt
