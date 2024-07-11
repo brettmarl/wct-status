@@ -1,3 +1,7 @@
+# 11 JULY - LADDER  
+Location: Cullite area   
+The ladder missing multiple runs and the ones remaining being loose. I am 5’2 and it was a struggle to pull myself up with a heavy pack. I did it but I am also of average fitness. For elderly or children, this is a major concern. I hope writing this gets the issue addressed before someone gets hurt
+
 # 09 JULY - CAMP  
 Location: Cullite Camp  
 Ranger at orientation said Cullite access is washed out. It is easily accessed via dry creek bed and a walk around by the washed out bank. No access problem. 
