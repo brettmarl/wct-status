@@ -1,3 +1,7 @@
+# 12 JULY - OTHER  
+Location: 1-75  
+Heat wave! Very sunny, dry, and hot conditions increasing likelihood of heat illnesses like heat syncope, heat exhaustion, and heat stroke. Prolonged sun exposure and heavy exercise also increasing risk of sunburn and dehydration. Lots of shady breaks for resting and hydrating are essential. MB
+
 # 11 JULY - TRAIL CONDITION  
 Location: KM72  
 The old rusty barrel that has marked the high point for decades at KM72 is missing and has been rolled down the hill. 
