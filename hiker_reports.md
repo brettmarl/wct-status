@@ -1,3 +1,7 @@
+# 16 JULY - TRAIL CONDITION  
+Location: 40  
+Inland trail to Cribbs km 39 to 41 is very overgrown. July 11.
+
 # 12 JULY - OTHER  
 Location: 1-75  
 Heat wave! Very sunny, dry, and hot conditions increasing likelihood of heat illnesses like heat syncope, heat exhaustion, and heat stroke. Prolonged sun exposure and heavy exercise also increasing risk of sunburn and dehydration. Lots of shady breaks for resting and hydrating are essential. MB
