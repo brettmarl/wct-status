@@ -6,10 +6,6 @@ Inland trail to Cribbs km 39 to 41 is very overgrown. July 11.
 Location: 1-75  
 Heat wave! Very sunny, dry, and hot conditions increasing likelihood of heat illnesses like heat syncope, heat exhaustion, and heat stroke. Prolonged sun exposure and heavy exercise also increasing risk of sunburn and dehydration. Lots of shady breaks for resting and hydrating are essential. MB
 
-# 11 JULY - TRAIL CONDITION  
-Location: KM72  
-The old rusty barrel that has marked the high point for decades at KM72 is missing and has been rolled down the hill. 
-
 # 11 JULY - LADDER  
 Location: Cullite area   
 The ladder missing multiple runs and the ones remaining being loose. I am 5’2 and it was a struggle to pull myself up with a heavy pack. I did it but I am also of average fitness. For elderly or children, this is a major concern. I hope writing this gets the issue addressed before someone gets hurt
