@@ -1,3 +1,7 @@
+# 02 AUGUST - CAMP  
+Location: 58  
+Heavy rains make camping at Cullite not recommended (by the parks office). The creek gets high and hard/impossible to follow the creek bed to camp. Hikers should be aware if this is their final destination.
+
 # 28 JULY - INSECTS  
 Location: 54-55  
 Wasp nest next to a board walk-on the ocean side. Everyone we talked to didn't notice them. When we went through I got swarmed. They were angry and a few followed us for over an hour! Mud helps eleviate the pain of stings. 
