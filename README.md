@@ -1,6 +1,6 @@
 # DATE 2024-08-04T10:00:00-07:00
 
-# 04 AUGUST - OVERGROWN TRAIL SECTIONS - UPDATE FOR KM29-KM25
+# 04 AUGUST - OVERGROWN TRAIL SECTIONS UPDATE FOR KM29-KM25
 Hikers who recently travelled the section of trail from the Beach Access at KM29 to Tsusiat Falls (KM25) report that it has been brushed by Ditidaht First Nation Guardians, but hikers should use caution as the excess brush is now on the trail making it hard to see the ground in some spots and also a bit slippery from the dead, dry salal leaves.
 
 # 10 JULY - CAMP FIRE BAN
