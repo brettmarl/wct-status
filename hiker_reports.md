@@ -1,3 +1,7 @@
+# 13 AUGUST - CAMP  
+Location: Tsusiat Falls Campsite South Side  
+A rock dislodged from the top cliffs and fell to the beach right where potential tents could be set up.  It made quite the boom!  The entire campsite jumped and ran to the site.  Thankfully there was no tent where the rock fell but the risk is very real.  Be aware. 
+
 # 02 AUGUST - CAMP  
 Location: 58  
 Heavy rains make camping at Cullite not recommended (by the parks office). The creek gets high and hard/impossible to follow the creek bed to camp. Hikers should be aware if this is their final destination.
