@@ -3,7 +3,7 @@
 # SAVE THE WCT LIGHTHOUSES 
 If you are Canadian hiking the WCT - please help save the two West Coast Trail lighthouses from government neglect. 
 
-[View The Petition]([https://www.westcoasttrail.app/a/segment/thrasher_gordon](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5109))
+[View The Petition](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5109)
 
 # BEARS NEAR MICHIGAN - July 26
 Three different groups of hikers reported 3 different bear sightings between KM11 (top of th hill) and Michigan Creek (KM12.2). When hiking in this area make lots of noise and try to travel in groups.
