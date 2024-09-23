@@ -1,4 +1,8 @@
-# 13 AUGUST - CAMP  
+# 23 SEPTEMBER - TRAIL CONDITION  
+Location: 48.6869° N, 123.4103° W  
+Beach accesses on either side of Carmanah lighthouse difficult and dangerous. Use the lighthouse ladder on the north side of the point rather than the north beach access. Nearly lost a hiker here.
+
+# 14 AUGUST - CAMP  
 Location: Tsusiat Falls Campsite South Side  
 A rock dislodged from the top cliffs and fell to the beach right where potential tents could be set up.  It made quite the boom!  The entire campsite jumped and ran to the site.  Thankfully there was no tent where the rock fell but the risk is very real.  Be aware. 
 
@@ -6,7 +10,7 @@ A rock dislodged from the top cliffs and fell to the beach right where potential
 Location: 58  
 Heavy rains make camping at Cullite not recommended (by the parks office). The creek gets high and hard/impossible to follow the creek bed to camp. Hikers should be aware if this is their final destination.
 
-# 28 JULY - INSECTS  
+# 29 JULY - INSECTS  
 Location: 54-55  
 Wasp nest next to a board walk-on the ocean side. Everyone we talked to didn't notice them. When we went through I got swarmed. They were angry and a few followed us for over an hour! Mud helps eleviate the pain of stings. 
 
@@ -26,11 +30,11 @@ The ladder missing multiple runs and the ones remaining being loose. I am 5’2 
 Location: 44  
 just north of the lighthouse ladder section on the beach, there is a decaying sea lion carcass
 
-# 06 JULY - WILDLIFE  
+# 07 JULY - WILDLIFE  
 Location: 13  
 Black bear with cub partway between Michigan and Darling, July 5
 
-# 06 JULY - OTHER  
+# 07 JULY - OTHER  
 Location: 32  
 Not really a concern so much as info. Crab shack prices have increased and some of what is listed on the app is inaccurate. 
 
