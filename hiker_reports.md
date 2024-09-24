@@ -1,6 +1,6 @@
 # 23 SEPTEMBER - TRAIL CONDITION  
-Location: 48.6869° N, 123.4103° W  
-Beach accesses on either side of Carmanah lighthouse difficult and dangerous. Use the lighthouse ladder on the north side of the point rather than the north beach access. Nearly lost a hiker here.
+Location: Carmanah  
+Beach accesses on either side of Carmanah lighthouse difficult and dangerous. Use the lighthouse ladder on the north side of the point rather than the north beach access. Nearly lost a hiker there.
 
 # 14 AUGUST - CAMP  
 Location: Tsusiat Falls Campsite South Side  
