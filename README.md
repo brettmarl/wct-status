@@ -1,7 +1,7 @@
-# DATE 2024-10-15T10:00:00-07:00
+# DATE 2025-01-19T10:00:00-07:00
 
-# WEST COAST TRAIL CLOSED FOR 2024
-The West Coast Trail is now closed for the season. Check back for updates in May 2025!
+# WEST COAST TRAIL RESERVATIONS OPEN JAN 20TH
+2025 season permit reservations will be available from 8am PST Jan 20th. This year Parks Canada has announced there will be no queue-system in place, so hikers will need to be speedy to secure spots. Good luck to all!
 
-#  LIGHTSTATIONS NOT AVAILABLE FOR ASSISTANCE IN 2025
-With the anticipated closure of both of the historic West Coast Trail lightstations at Carmanah Point and Pachena Point hikers should be aware that no services, assistance, or access should be expected in future hiking seasons. It is unclear at this time if the grounds will be accessible by hikers or not.
+#  LIGHTSTATIONS CLOSED IN 2025
+Both Carmanah and Pachena lightstations are closed to the public for the 2025 season until futher notice. Hikers should not attempt access the grounds. Violators may be charged under the Canada National Parks Act: maximum penalty $25,000.
