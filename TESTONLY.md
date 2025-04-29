@@ -1,38 +1,19 @@
 # DATE 2025-04-29T00:00:00-07:00
 
 # EARLY SEASON TRAIL DAMAGE
-Parks Canada has been working to address storm damage from last winter that has caused some major damage on the south end of the trail. The following advisories are in place:
+Storm damage over the winter that has caused some major damage on the south end of the trail. Parks Canada and First Nations Trail Guardians are working hard to repair the damage. 
 
-🪜 53 km – Walbran Creek (North Side)
-Issue: Ladder system damaged by windfall.
+The following advisories are in place:
 
-Closure: Forest section from 51 km (near Vancouver Point) to south of Walbran Creek is closed, including the Walbran Creek Cable Car.
+53 km – Walbran Creek North side – ladder system damaged by windfall. The forest section from 51 km (near Vancouver Point) to South of Walbran Creek including the Walbran Creek Cable Car is closed. The beach route between Vancouver Point and Walbran Creek South is your only option for this section of the trail, but this beach route is heavily TIDE DEPENDENT. You will also have to wade across Walbran Creek and do so only when it is safe to do so. The Walbran Creek cable car is closed and there is no access to the beach from the north side of Walbran Creek.
 
-Alternative: Beach route between Vancouver Point and Walbran Creek South is TIDE DEPENDENT and requires wading across Walbran Creek. Only attempt when safe.
+58 km Cullite Creek South side – landslide compromised the ladder system, re-route and ropes in place and crew on site.
 
-Note: No beach access from the north side of Walbran Creek due to cable car closure.
+59 km Sandstone Creek North Side – washout compromised the ladder system, re-route and ropes in place and crew on site.
 
-🪨 58 km – Cullite Creek (South Side)
-Issue: Landslide has compromised the ladder system.
+62 km South of Camper Creek – landslide, re-route in place
 
-Solution: Re-route and ropes are in place; crew is on site.
-
-🌊 59 km – Sandstone Creek (North Side)
-Issue: Washout has compromised the ladder system.
-
-Solution: Re-route and ropes are in place; crew is on site.
-
-⛰️ 62 km – South of Camper Creek
-Issue: Landslide.
-
-Solution: Re-route is in place.
-
-🌉 69 km – Bridge Closure
-Issue: Bridge is closed in the area.
-
-Solution: Re-route is in place.
-
-
+69 km – bridge closed in area, re-route is in place.
 
 # CULLITE CAMP CAUTION
 Parks Canada is advising hikers to exercise caution when considering Cullite as a campsite. The trail into the camp is washed out, and access is only possible via the creek bed. During heavy rains, Cullite Creek is prone to flash flooding, which could leave hikers stranded or force them into a dangerous wade back to the cable car. Those hiking in early or late season should be particularly cautious.
