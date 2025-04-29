@@ -15,6 +15,9 @@ The following advisories are in place:
 
 69 km – bridge closed in area, re-route is in place.
 
+As a result, your hike will likely take longer than expected and will require extra planning and preparation. We suggest you plan, at a minimum, 2 days for contingency especially if rains cause the Walbran Creek to swell. As we continue to assess the trail, conditions may change. 
+
+
 # CULLITE CAMP CAUTION
 Parks Canada is advising hikers to exercise caution when considering Cullite as a campsite. The trail into the camp is washed out, and access is only possible via the creek bed. During heavy rains, Cullite Creek is prone to flash flooding, which could leave hikers stranded or force them into a dangerous wade back to the cable car. Those hiking in early or late season should be particularly cautious.
 
