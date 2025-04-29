@@ -1,20 +1,42 @@
-# DATE 2023-07-19T00:00:00-07:00
+# DATE 2025-04-29T00:00:00-07:00
 
-# SAVE THE WCT LIGHTHOUSES 
-If you are Canadian hiking the WCT - please help save the two West Coast Trail lighthouses from government neglect. 
+# EARLY SEASON TRAIL DAMAGE
+Parks Canada has been working to address storm damage from last winter that has caused some major damage on the south end of the trail. The following advisories are in place:
 
-[View The Petition](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-5109)
+🪜 53 km – Walbran Creek (North Side)
+Issue: Ladder system damaged by windfall.
 
-# BEARS NEAR MICHIGAN - July 26
-Three different groups of hikers reported 3 different bear sightings between KM11 (top of th hill) and Michigan Creek (KM12.2). When hiking in this area make lots of noise and try to travel in groups.
+Closure: Forest section from 51 km (near Vancouver Point) to south of Walbran Creek is closed, including the Walbran Creek Cable Car.
 
-# DARLING RIVER WASP NEST - July 19
-Multiple hikers have reported being stung by wasps near the waterfall at the Darling River. A nest is possibly located in a pile of old driftwood upstream near the waterfall. Use caution.
+Alternative: Beach route between Vancouver Point and Walbran Creek South is TIDE DEPENDENT and requires wading across Walbran Creek. Only attempt when safe.
 
-# SEPTEMBER RAINS - September 01
-After 4 months of virtually no rain, September has several days of rain in the long range forecast. Use caution on wet boardwalks, boulders, and beaches. During rain be prepared for significant and sudden changes in river levels. Rising river levels can leave you trapped or cut off from the main trail so DO NOT camp in the caves on the north side of Walbran Creek or at the Cullite Cove campsite.
+Note: No beach access from the north side of Walbran Creek due to cable car closure.
 
-# SMOKE & RAIN IN THE FORECAST - August 25
-The West Coast Trail may see a brief heat wave (24-26 deg) and smokey conditions Sat Aug 26 - Sun Aug 27. 
+🪨 58 km – Cullite Creek (South Side)
+Issue: Landslide has compromised the ladder system.
 
-Rain is in the forecast for Mon Aug 28 and Thu Aug 31. Use caution on wet boardwalks and beaches, be prepared for significant and sudden changes in river levels, and DO NOT camp in the caves on the north side of Walbran Creek or at Cullite Cove campsite as you can be trapped by rising river levels.
+Solution: Re-route and ropes are in place; crew is on site.
+
+🌊 59 km – Sandstone Creek (North Side)
+Issue: Washout has compromised the ladder system.
+
+Solution: Re-route and ropes are in place; crew is on site.
+
+⛰️ 62 km – South of Camper Creek
+Issue: Landslide.
+
+Solution: Re-route is in place.
+
+🌉 69 km – Bridge Closure
+Issue: Bridge is closed in the area.
+
+Solution: Re-route is in place.
+
+
+
+# CULLITE CAMP CAUTION
+Parks Canada is advising hikers to exercise caution when considering Cullite as a campsite. The trail into the camp is washed out, and access is only possible via the creek bed. During heavy rains, Cullite Creek is prone to flash flooding, which could leave hikers stranded or force them into a dangerous wade back to the cable car. Those hiking in early or late season should be particularly cautious.
+
+#  LIGHTSTATIONS CLOSED IN 2025
+Both Carmanah and Pachena lightstations are closed to the public for the 2025 season until futher notice. Hikers must not attempt to enter the grounds. Violators may face charges under the Canada National Parks Act, with a maximum penalty of $25,000.
+
