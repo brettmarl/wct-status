@@ -1,4 +1,4 @@
-# DATE 2025-05-3T00:00:00-07:00
+# DATE 2025-05-03T00:00:00-07:00
 
 # EARLY SEASON TRAIL DAMAGE
 Storm damage over the winter has caused some major damage on the south end of the trail. Parks Canada and First Nations Trail Guardians are working on repairs. 
