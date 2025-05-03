@@ -1,4 +1,3 @@
-# :pushpin: Hiker Reports
 
 ## 03 MAY - OTHER
 Location: 53
