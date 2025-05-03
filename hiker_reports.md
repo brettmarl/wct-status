@@ -2,6 +2,13 @@
 
 With the 2025 lightstation closures, there will be fewer official updates this year. We’re hoping the hiker community will help fill the gap — please use hiker reports to share trail conditions and report anything you notice.
 
+## 03 MAY - TRAIL CONDITION
+Location: 39
+
+Downed trees on forest routes between Dare and Chin. RL
+
+---
+
 ## 03 MAY - OTHER
 Location: 53
 
