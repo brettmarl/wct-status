@@ -10,6 +10,13 @@ Walbran Creek - easy shin to knee deep ford on low tide with a low flow. Moderat
 ---
 
 ## 03 MAY - LADDER
+Location: 58
+
+Cullite Creek South - repairs completed and new ladder section passable. MB
+
+---
+
+## 03 MAY - LADDER
 Location: 59
 
 Sandstone Creek North - repairs completed and new ladder section passable. MB 
