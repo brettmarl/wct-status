@@ -1,16 +1,11 @@
-# Hiker Reports
+# EARLY SEASON HIKERS - PLEASE HELP!
+
+With the 2025 lightstation closures, there will be fewer official updates this year. We’re hoping the hiker community will help fill the gap — please use hiker reports to share trail conditions and report anything you notice.
 
 ## 03 MAY - OTHER
 Location: 53
 
 Walbran Creek - easy shin to knee deep ford on low tide with a low flow. Moderate flow or above would be unsafe to cross. MB
-
----
-
-## 03 MAY - LADDER
-Location: 58
-
-Cullite Creek South - repairs completed and new ladder section passable. MB
 
 ---
 
