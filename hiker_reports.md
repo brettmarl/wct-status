@@ -2,6 +2,13 @@
 
 With the 2025 lightstation closures, there will be fewer official updates this year. We’re hoping the hiker community will help fill the gap — please use hiker reports to share trail conditions and report anything you notice.
 
+## 05 MAY - LADDER
+Location: Top of south ladders at Campers
+
+Big tree down across trail….some creative gymnastics required to get around
+
+---
+
 ## 03 MAY - CAMP
 Location: Thrasher cove
 
