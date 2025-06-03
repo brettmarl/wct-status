@@ -2,6 +2,13 @@
 
 With the 2025 lightstation closures, there will be fewer official updates this year. We’re hoping the hiker community will help fill the gap — please use hiker reports to share trail conditions and report anything you notice.
 
+## 03 JUNE - TRAIL CONDITION
+Location: 12
+
+Michigan Mud Slide! Significant mud slide obstacle under busted bridge with limited options to avoid getting right into it. High route is on awkward angled terrain and resulted in slips and knee to waist mud. Low route is a busted section of super slick off camber bridge deck and requires some sketchy moves. Tread carefully! MB
+
+---
+
 ## 05 MAY - LADDER
 Location: Top of south ladders at Campers
 
