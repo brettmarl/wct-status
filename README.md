@@ -1,6 +1,17 @@
-# DATE 2025-05-29T10:00:00-07:00
+# DATE 2025-06-03T01:00:00-07:00
 
-# BEAR IN AREA
+# BEAR IN AREA - TSUSIAT FALLS CAMPSITE
+Parks Canada issued a BEAR in AREA WARNING for Tsusiat Falls Camp & surrounding area. 
+
+Recent reports from hikers indicate that two bears are frequenting this area. The behaviour includes highly habituated (indifferent to humans) and food seeking (seeking opportunities to gain access to human food/garbage). Parks is asking all hikers aid in reducing the risk of negative human-bear interactions by these extra precautions:
+
+To reduce risk, hikers must be extra vigilant in this area. Store all food, garbage, and scented items securely in bear bins or hung properly—not just at night, but also during the day if a bear has been seen nearby. Never leave packs, snacks, or trash unattended. If a bear is observed, put attractants away immediately, group together, make noise, and prepare deterrents like bear spray or air horns. Give the bear plenty of space and never approach. Always sleep in a tent, not in the open.
+
+
+
+
+
+# BEAR IN AREA - PACHENA-DARLING
 Parks Canada has issued a BEAR in AREA WARNING for the north end, from Pachena Bay through to Darling River. This includes the immediate areas around the Pachena Bay Orientation Center, the beach route to Clonard Creek, and the West Coast Trail up to Darling River, including designated camping areas at Michigan and Darling.
 
 Reports from hikers and staff indicate that there are multiple bears along this stretch, including sows with cubs frequently using this area. Human-bear interactions have occurred at multiple locations along this stretch of trail, including close to campsites. 
