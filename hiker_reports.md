@@ -2,6 +2,13 @@
 
 With the 2025 lightstation closures, there will be fewer official updates this year. We’re hoping the hiker community will help fill the gap — please use hiker reports to share trail conditions and report anything you notice.
 
+## 08 JUNE - WILDLIFE
+Location: Thrasher Cove
+
+A rat climbed the food hang pole rope, and chewed through two layers of Utra-Sil bags before eating nut mix. It also left a present to help us identify the rodent! 
+
+---
+
 ## 03 JUNE - TRAIL CONDITION
 Location: 12
 
