@@ -1,6 +1,9 @@
-# EARLY SEASON HIKERS - PLEASE HELP!
+## 12 JUNE - WILDLIFE
+Location: Walbran
 
-With the 2025 lightstation closures, there will be fewer official updates this year. We’re hoping the hiker community will help fill the gap — please use hiker reports to share trail conditions and report anything you notice.
+Rodent chewed through backpack under the tent fly, make sure to properly secure everything and watch out at night
+
+---
 
 ## 08 JUNE - WILDLIFE
 Location: Thrasher Cove
