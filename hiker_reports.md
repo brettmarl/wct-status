@@ -5,6 +5,13 @@ Rodent chewed through backpack under the tent fly, make sure to properly secure 
 
 ---
 
+## 12 JUNE - WILDLIFE
+Location: 31
+
+Bear cub spotted passed Tsusiat falls closer to Nit Nat
+
+---
+
 ## 08 JUNE - WILDLIFE
 Location: Thrasher Cove
 
