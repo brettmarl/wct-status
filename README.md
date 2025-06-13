@@ -1,7 +1,7 @@
 # DATE 2025-06-13T01:00:00-07:00
 
 # WALBRAN CABLE CAR OPEN AGAIN
-Walbran Cable Car route is now open for hikers. The damaged ladder system has been repaired as of June 13th. 
+Walbran Cable Car route is open for hikers. The ladder system on the north side that was damaged by winter storms has been replaced as of June 13th.
 
 
 # BEAR IN AREA - TSUSIAT FALLS CAMPSITE
