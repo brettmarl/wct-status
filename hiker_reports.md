@@ -1,3 +1,10 @@
+## 13 JUNE - OTHER
+Location: 46km
+
+Carmanah cable car is broken. [Unverified Hiker Report, no further info at this time.]
+
+---
+
 ## 12 JUNE - WILDLIFE
 Location: Walbran
 
