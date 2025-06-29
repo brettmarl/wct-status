@@ -1,12 +1,3 @@
-## 29 JUNE - OTHER
-Location: 46km/ carmanhan cable car
-
-Cable car broke while we were on it (rope came off the pulley system). 
-
-Awaiting rescue haha. Don’t know if it will be functional after we’re rescued. avoid for now. 
-
----
-
 ## 13 JUNE - OTHER
 Location: 46km
 
