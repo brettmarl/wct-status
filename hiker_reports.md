@@ -1,3 +1,10 @@
+## 04 JULY - WILDLIFE
+Location: Walbran
+
+Rodent chewed my backpack which was stored under tent fly. Beware :)
+
+---
+
 ## 29 JUNE - OTHER
 Location: Carmanah Cable Car [km46]
 
