@@ -1,3 +1,10 @@
+## 12 JULY - OTHER
+Location: Klanawa
+
+It’s an easy ford at Klanawa river, depending on tide, if you want to skip the cable car. Gravel bar has built up such that it is an easy ford or even a dry ford of the river at medium to high tides.  Best ford is near high tide line at beach.
+
+---
+
 ## 12 JULY - BOARDWALK
 Location: Km 11-12
 
