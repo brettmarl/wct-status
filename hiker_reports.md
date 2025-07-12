@@ -1,3 +1,10 @@
+## 12 JULY - BOARDWALK
+Location: Km 11-12
+
+Boardwalk washed out just before Michigan camp, it’s really bad.  There is a rope for part of it but not for the rest. The mud is super deep.  It is passable but VERY difficult please be safe. 
+
+---
+
 ## 04 JULY - WILDLIFE
 Location: Walbran
 
