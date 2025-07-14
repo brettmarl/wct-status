@@ -1,3 +1,10 @@
+## 14 JULY - OTHER
+Location: 36km
+
+Gunshots heard from trail on the afternoon of July 13. Multiple shots heard coming from north of the Cheewhat River.
+
+---
+
 ## 12 JULY - OTHER
 Location: Klanawa
 
