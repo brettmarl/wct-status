@@ -1,7 +1,9 @@
 # DATE 2025-07-15T01:00:00-07:00
 
 # CAMPFIRE BAN
-All campfires are banned on the West Coast Trail and other coastal regions in BC starting on Thursday July 17th at 12pm PST. This will likely be in place through the remainder of the season. If you see other hikers on the trail with fires beyond this date, please advise them to put them out - as they may have started the trail before getting notice.
+Effective Thursday, July 17 at 12:00 PM PST, all campfires are prohibited on the West Coast Trail and throughout other coastal regions in BC. This ban will likely remain in effect for the rest of the hiking season.
+
+If you encounter hikers with campfires after this date, kindly let them know about the ban—they may have started their hike before the restriction was announced.
 
 # WALBRAN CABLE CAR OPEN 
 Walbran Cable Car route is open for hikers. The ladder system on the north side that was damaged by winter storms has been replaced as of June 13th.
