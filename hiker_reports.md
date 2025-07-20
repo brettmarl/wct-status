@@ -1,3 +1,10 @@
+## 20 JULY - WILDLIFE
+Location: KM 12 [48.723° N, 125.0731° W]
+
+Bear and 2 cubs right before michigan
+
+---
+
 ## 14 JULY - OTHER
 Location: 36km
 
