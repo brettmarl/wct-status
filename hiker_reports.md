@@ -1,4 +1,11 @@
 ## 21 JULY - TRAIL CONDITION
+Location: KM 40
+
+The forest route from Dare Pt to Cribs has been recently cut back (tools still on the trail) so it’s no longer overgrown, if you’re unable to take the beach route due to tides 
+
+---
+
+## 21 JULY - TRAIL CONDITION
 Location: Between tsocios and darling
 
 Forest area is not maintained well lots of stinging nettle and over grown
