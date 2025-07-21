@@ -1,3 +1,10 @@
+## 21 JULY - TRAIL CONDITION
+Location: Between tsocios and darling
+
+Forest area is not maintained well lots of stinging nettle and over grown
+
+---
+
 ## 20 JULY - WILDLIFE
 Location: KM 12 [48.723° N, 125.0731° W]
 
