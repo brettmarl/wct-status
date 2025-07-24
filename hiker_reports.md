@@ -1,3 +1,10 @@
+## 23 JULY - WILDLIFE
+Location: 31.5
+
+Bear seen climbing up towards the trail from the beach. 
+
+---
+
 ## 21 JULY - TRAIL CONDITION
 Location: KM 40
 
