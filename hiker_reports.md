@@ -1,3 +1,10 @@
+## 27 JULY - WILDLIFE
+Location: michigan
+
+Black bear sighting
+
+---
+
 ## 23 JULY - WILDLIFE
 Location: 31.5
 
