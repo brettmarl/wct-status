@@ -1,3 +1,10 @@
+## 28 JULY - WATER SOURCE
+Location: Thrasher Cove
+
+Human feces found near up stream of Hobbs Creek. Make sure taking drinking water at the very top of the stream, especially after the rain fall.
+
+---
+
 ## 27 JULY - WILDLIFE
 Location: michigan
 
