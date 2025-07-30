@@ -7,6 +7,13 @@ Tsunami watch issued for Vancouver Island.
 
 ---
 
+## 30 JULY - OTHER
+Location: All 
+
+Tsunami watch from Alaska to California due to 8.7 quake in Kamchatka 
+
+---
+
 ## 28 JULY - WATER SOURCE
 Location: Thrasher Cove
 
