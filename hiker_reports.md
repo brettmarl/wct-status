@@ -1,3 +1,10 @@
+## 30 JULY - CAMP
+Location: Cribs Creek
+
+The outhouse on the right side (south) has broken steps in the staircase. It may be difficult to spot the missing steps in the dark with a headlamp, especially for someone with vision impairments. MB
+
+---
+
 ## 30 JULY - OTHER
 Location: 75
 
