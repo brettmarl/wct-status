@@ -4,12 +4,13 @@
 A tsunami advisory has been issued for coastal areas, including Pacific Rim National Park. No major inundation (flooding) is expected, but strong localized currents and flooding in low-lying beach areas are possible.
 
 Advised Actions:
+- Stay away from the shoreline.
+- Campers on the West Coast Trail should move camps off beaches to higher forested areas.
+- Follow instructions from local authorities.
 
-Stay away from the shoreline.
-Campers on the West Coast Trail should move camps off beaches to higher forested areas.
-Follow instructions from local authorities.
-🔗 Emergency Info BC
-🔗 Tsunami.gov – Official Warning Center
+🔗 [Emergency Info BC](https://www.emergencyinfobc.gov.bc.ca/)  
+🔗 [Tsunami.gov – Official Warning Center](https://www.tsunami.gov/)
+
 
 # CAMPFIRE BAN
 Effective Thursday, July 17 at 12:00 PM PST, all campfires are prohibited on the West Coast Trail and throughout other coastal regions in BC. This ban will likely remain in effect for the rest of the hiking season.
