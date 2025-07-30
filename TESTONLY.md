@@ -1,4 +1,18 @@
-# DATE 2025-04-29T00:00:00-07:00
+# DATE 2025-07-29T00:00:00-07:00
+
+**⚠️ Tsunami Advisory for West Coast Trail & Broken Group Islands**
+
+A **tsunami advisory** has been issued for coastal areas, including **Pacific Rim National Park Reserve**. No major inundation is expected, but **strong localized currents** and flooding in **low-lying beach areas** are possible.
+
+**Advised Actions:**
+- Stay away from the shoreline.
+- Campers on the **West Coast Trail** and in the **Broken Group Islands** should move camps off beaches to higher forested areas.
+- Secure all kayaks and personal watercraft **above the high tide line**.
+- Follow instructions from local authorities.
+
+🔗 [Emergency Info BC](https://www.emergencyinfobc.gov.bc.ca/)  
+🔗 [Tsunami.gov – Official Warning Center](https://www.tsunami.gov/)
+
 
 # EARLY SEASON TRAIL DAMAGE
 Storm damage over the winter that has caused some major damage on the south end of the trail. Parks Canada and First Nations Trail Guardians are working hard to repair the damage. 
