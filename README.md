@@ -1,6 +1,6 @@
 # DATE 2025-07-29T01:00:00-07:00
 
-TSUNAMI ADVISORY - PARKS CANADA - JULY 29TH
+# TSUNAMI ADVISORY - PARKS CANADA - JULY 29TH
 A tsunami advisory has been issued for coastal areas, including Pacific Rim National Park. No major inundation (flooding) is expected, but strong localized currents and flooding in low-lying beach areas are possible.
 
 Advised Actions:
