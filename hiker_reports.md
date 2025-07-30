@@ -1,3 +1,12 @@
+## 30 JULY - OTHER
+Location: 75
+
+https://www.emergencyinfobc.gov.bc.ca/event/tsunami-29jul25/
+
+Tsunami watch issued for Vancouver Island.
+
+---
+
 ## 28 JULY - WATER SOURCE
 Location: Thrasher Cove
 
