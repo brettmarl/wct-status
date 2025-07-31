@@ -1,11 +1,4 @@
-# DATE 2025-07-29T02:00:00-07:00
-
-# TSUNAMI ADVISORY - PARKS CANADA - JULY 29TH
-A tsunami advisory has been issued for coastal areas, including Pacific Rim National Park. No major inundation (flooding) is expected, but strong localized currents and flooding in low-lying beach areas are possible.
-
-🔗 [Emergency Info BC](https://www.emergencyinfobc.gov.bc.ca/)  
-🔗 [Tsunami.gov – Official Warning Center](https://www.tsunami.gov/)
-
+# DATE 2025-07-30T02:00:00-07:00
 
 # CAMPFIRE BAN
 Effective Thursday, July 17 at 12:00 PM PST, all campfires are prohibited on the West Coast Trail and throughout other coastal regions in BC. This ban will likely remain in effect for the rest of the hiking season.
