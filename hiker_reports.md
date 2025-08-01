@@ -1,4 +1,11 @@
 ## 01 AUGUST - WILDLIFE
+Location: 30km
+
+Bear on trail heading south of guardian cabins to the first beach access at around 30km marker on July 26 
+
+---
+
+## 01 AUGUST - WILDLIFE
 Location: 13.8km
 
 Black Bear sighting at Darling with cub, heading north to Michigan.
