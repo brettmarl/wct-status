@@ -1,3 +1,10 @@
+## 01 AUGUST - WILDLIFE
+Location: 13.8km
+
+Black Bear sighting at Darling with cub, heading north to Michigan.
+
+---
+
 ## 30 JULY - CAMP
 Location: Cribs Creek
 
