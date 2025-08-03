@@ -1,3 +1,10 @@
+## 02 AUGUST - WILDLIFE
+Location: 12km
+
+Bear sighting along the trail, ran back in the woods.
+
+---
+
 ## 01 AUGUST - WILDLIFE
 Location: 30km
 
