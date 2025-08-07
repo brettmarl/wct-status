@@ -1,3 +1,10 @@
+## 07 AUGUST - WILDLIFE
+Location: 25 KM Tsusiat
+
+Black bear spotted along the beach at Tsusiat Falls. Ran away down the beach heading south.
+
+---
+
 ## 02 AUGUST - WILDLIFE
 Location: 12km
 
