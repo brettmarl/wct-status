@@ -49,6 +49,13 @@ Tsunami watch from Alaska to California due to 8.7 quake in Kamchatka
 
 ---
 
+## 28 JULY - WILDLIFE
+Location: 37
+
+Bear seen climbing up from beach into the forest
+
+---
+
 ## 28 JULY - WATER SOURCE
 Location: Thrasher Cove
 
