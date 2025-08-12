@@ -1,4 +1,7 @@
-# DATE 2025-07-30T02:00:00-07:00
+# DATE 2025-08-11T02:00:00-07:00
+
+# WILDFIRE NEAR PORT ALBERNI
+BC Wildfire is responding to the Mount Underwood (V71498) fire, southwest of Port Alberni, along the highway between Port Alberni and Bamfield (the Bamfield Main Road). The fire is approximately 12km south of Port Alberni. The highway is closed between Port Alberni and Bamfield. This is a rapidly developing situation and make impact travel to and from Pachena Bay. 
 
 # CAMPFIRE BAN
 Effective Thursday, July 17 at 12:00 PM PST, all campfires are prohibited on the West Coast Trail and throughout other coastal regions in BC. This ban will likely remain in effect for the rest of the hiking season.
