@@ -1,3 +1,10 @@
+## 16 AUGUST - WILDLIFE
+Location: Michigan
+
+Mom and cub foraging the shore during rain. Did not react to our group of 6 shouting or slowly approaching. We ended up needing to go around further into the oceanside to cross (during low tide)
+
+---
+
 ## 16 AUGUST - OTHER
 Location: 9
 
