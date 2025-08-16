@@ -1,3 +1,10 @@
+## 16 AUGUST - OTHER
+Location: 9
+
+First bridge moving southbound after the 9km marker. Bridge is twisted midway and completely slippery when wet. Three of my party slipped sideways during their crossing. One of the floor boards is missing and the rail guard is severely cracked. Be cautious and try to stay low and hold the flooring when crossing when it is wet
+
+---
+
 ## 16 AUGUST - WILDLIFE
 Location: Darling beach
 
