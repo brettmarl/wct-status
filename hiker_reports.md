@@ -1,4 +1,11 @@
 ## 16 AUGUST - WILDLIFE
+Location: 8
+
+Black bear on Trail. Ran away at sight of my group of 5
+
+---
+
+## 16 AUGUST - WILDLIFE
 Location: Michigan
 
 Mom and cub foraging the shore during rain. Did not react to our group of 6 shouting or slowly approaching. We ended up needing to go around further into the oceanside to cross (during low tide)
