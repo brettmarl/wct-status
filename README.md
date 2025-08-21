@@ -1,24 +1,10 @@
-# DATE 2025-08-14T02:00:00-07:00
+# DATE 2025-08-21T02:00:00-07:00
 
-## PARKS CANADA - WILDFIRE UPDATE, AUG 14
+## PARKS CANADA - WILDFIRE UPDATE, AUG 21
+The Mount Underwood wildfire (discovered August 11 southwest of Port Alberni) is not directly affecting the trail but has made access challenging. The road between Bamfield and Port Alberni remains closed. Pachena, Nitinaht and Bamfield are still without power - likely until the end of August. The alternate Youbou–Lake Cowichan route traverses remote, rugged, backcountry conditions. Please use the West Coast Trail Express bus wherever possible.
 
-Parks Canada has issued a new **Important Bulletin** regarding the Mount Underwood wildfire and its impact on communities supporting the West Coast Trail. While the trail itself remains open, Bamfield, Anacla, and Balaats’adt (Nitinaht Village) are without power and have limited water and waste services.
-
-**Key highlights for hikers:**
-- Please do not drive personal vehicles to Bamfield.
-- Please park at Gordon River (south end) and use the West Coast Trail Express "trailbus".
-- There are no services or overnight accommodations available in Bamfield — start your hike promptly.
-- If requested, you may need to exit the trail at Nitinaht Narrows.
-- Leave these communities immediately after your hike and pack out all waste to help prioritize resources for residents.
-
-[Read the updated Parks Canada bulletin »](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/6dde9369-b961-4f75-a9f9-cdc39017c249)
+[Read the full Aug 21st Parks Canada bulletin »](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/6dde9369-b961-4f75-a9f9-cdc39017c249)
  
-
-
-# WILDFIRE NEAR PORT ALBERNI
-BC Wildfire is responding to the Mount Underwood (V71498) wildfire, southwest of Port Alberni, along the highway between Port Alberni and Bamfield (the Bamfield Main Road). The fire is approximately 12km south of Port Alberni. The highway is closed between Port Alberni and Bamfield. This is a rapidly developing situation impacting travel to and from Pachena Bay. 
-
-[Mount Underwood Fire »](https://wildfiresituation.nrs.gov.bc.ca/incidents?fireYear=2025&incidentNumber=V71498&source=map)
 
 # CAMPFIRE BAN
 Effective Thursday, July 17 at 12:00 PM PST, all campfires are prohibited on the West Coast Trail and throughout other coastal regions in BC. This ban will likely remain in effect for the rest of the hiking season.
