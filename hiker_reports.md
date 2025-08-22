@@ -1,3 +1,10 @@
+## 22 AUGUST - WILDLIFE
+Location: KM 12 [48.7227° N, 125.0681° W]
+
+Sow and cub on the beach at KM 12.3, 15:15 Aug 22, 2025.
+
+---
+
 ## 16 AUGUST - WILDLIFE
 Location: 8
 
