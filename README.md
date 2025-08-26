@@ -1,9 +1,9 @@
-# DATE 2025-08-21T02:00:00-07:00
+# DATE 2025-08-25T02:00:00-07:00
 
-## PARKS CANADA - WILDFIRE UPDATE, AUG 21
-The Mount Underwood wildfire (discovered August 11 southwest of Port Alberni) is not directly affecting the trail but has made access challenging. The road between Bamfield and Port Alberni remains closed. Pachena, Nitinaht and Bamfield are still without power - likely until the end of August. The alternate Youbou–Lake Cowichan route traverses remote, rugged, backcountry conditions. Please use the West Coast Trail Express bus wherever possible.
+# PARKS CANADA - WILDFIRE UPDATE, AUG 25
+The Mount Underwood wildfire is under control and not directly affecting the trail but, continues to make access challenging. The road between Bamfield and Port Alberni remains closed. Power has been restored to Bamfield and Balaats’adt (Nitinaht Village), however, Parks is still asking for hikers to use the West Coast Trail Express bus wherever possible to reduce strain on communities.
 
-[Read the full Aug 21st Parks Canada bulletin »](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/6dde9369-b961-4f75-a9f9-cdc39017c249)
+[Read the full Aug 25st Parks Canada bulletin »](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/6dde9369-b961-4f75-a9f9-cdc39017c249)
  
 
 # CAMPFIRE BAN
