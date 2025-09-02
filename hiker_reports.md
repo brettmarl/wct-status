@@ -1,3 +1,10 @@
+## 02 SEPTEMBER - WILDLIFE
+Location: KM 12 [48.723° N, 125.0728° W]
+
+Small bear seen while heading southbound into Camp, followed by 2 small bears on beach around 8pm about 200ft from tent area
+
+---
+
 ## 22 AUGUST - WILDLIFE
 Location: KM 12 [48.7227° N, 125.0681° W]
 
