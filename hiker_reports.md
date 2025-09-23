@@ -1,3 +1,16 @@
+## 23 SEPTEMBER - LADDER
+Location: See description
+
+Ladder rungs missing:
+
+Km 31 - missing 2 rungs
+Km 71 - missing 1
+Km 73 - missing 2
+
+Parks canada notified Saturday Sept 20th.
+
+---
+
 ## 02 SEPTEMBER - WILDLIFE
 Location: KM 12 [48.723° N, 125.0728° W]
 
