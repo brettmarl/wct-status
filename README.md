@@ -1,15 +1,7 @@
-# DATE 2025-08-25T02:00:00-07:00
+# DATE 2025-09-25T02:00:00-07:00
 
-# PARKS CANADA - WILDFIRE UPDATE, AUG 25
-The Mount Underwood wildfire is under control and not directly affecting the trail but, continues to make access challenging. The road between Bamfield and Port Alberni remains closed. Power has been restored to Bamfield and Balaats’adt (Nitinaht Village), however, Parks is still asking for hikers to use the West Coast Trail Express bus wherever possible to reduce strain on communities.
-
-[Read the full Aug 25st Parks Canada bulletin »](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/6dde9369-b961-4f75-a9f9-cdc39017c249)
- 
-
-# CAMPFIRE BAN
-Effective Thursday, July 17 at 12:00 PM PST, all campfires are prohibited on the West Coast Trail and throughout other coastal regions in BC. This ban will likely remain in effect for the rest of the hiking season.
-
-If you encounter hikers with campfires after this date, kindly let them know about the ban—they may have started their hike before the restriction was announced.
+# CAMPFIRE BAN LIFTED
+Due to recent rainfall and a lower fire hazard risk, the campfire ban for West Coast Trail will be lifted as of noon September 25th. If starting a campfire on the trail - please follow Parks rules including ensuring it is below the tide line. 
 
 # WALBRAN CABLE CAR OPEN 
 Walbran Cable Car route is open for hikers. The ladder system on the north side that was damaged by winter storms has been replaced as of June 13th.
