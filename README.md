@@ -1,30 +1,7 @@
-# DATE 2025-09-25T02:00:00-07:00
+# DATE 2025-10-08T02:00:00-07:00
 
-# CAMPFIRE BAN LIFTED
-Due to recent rainfall and a lower fire hazard risk, the campfire ban for West Coast Trail will be lifted as of noon September 25th. If starting a campfire on the trail - please follow Parks rules including ensuring it is below the tide line. 
+# TRAIL CLOSED FOR 2025
+Trail is now closed for the season. 
 
-# WALBRAN CABLE CAR OPEN 
-Walbran Cable Car route is open for hikers. The ladder system on the north side that was damaged by winter storms has been replaced as of June 13th.
-
-
-# BEAR IN AREA - TSUSIAT FALLS CAMPSITE
-Parks Canada issued a BEAR in AREA WARNING for Tsusiat Falls Camp & surrounding area. 
-
-Recent reports from hikers indicate that two bears are frequenting this area. The behaviour includes highly habituated (indifferent to humans) and food seeking (seeking opportunities to gain access to human food/garbage). Parks is asking all hikers aid in reducing the risk of negative human-bear interactions by these extra precautions:
-
-To reduce risk, hikers must be extra vigilant in this area. Store all food, garbage, and scented items securely in bear bins or hung properly—not just at night, but also during the day if a bear has been seen nearby. Never leave packs, snacks, or trash unattended. If a bear is observed, put attractants away immediately, group together, make noise, and prepare deterrents like bear spray or air horns. Give the bear plenty of space and never approach. Always sleep in a tent, not in the open.
-
-
-
-
-
-# BEAR IN AREA - PACHENA-DARLING
-Parks Canada has issued a BEAR in AREA WARNING for the north end, from Pachena Bay through to Darling River. This includes the immediate areas around the Pachena Bay Orientation Center, the beach route to Clonard Creek, and the West Coast Trail up to Darling River, including designated camping areas at Michigan and Darling.
-
-Reports from hikers and staff indicate that there are multiple bears along this stretch, including sows with cubs frequently using this area. Human-bear interactions have occurred at multiple locations along this stretch of trail, including close to campsites. 
-# CULLITE CAMP CAUTION
-Parks Canada is advising hikers to exercise caution when considering Cullite as a campsite. The trail into the camp is washed out, and access is only possible via the creek bed. During heavy rains, Cullite Creek is prone to flash flooding, which could leave hikers stranded or force them into a dangerous wade back to the cable car. Those hiking in early or late season should be particularly cautious.
-
-#  LIGHTSTATIONS CLOSED IN 2025
-Both Carmanah and Pachena lightstations are closed to the public for the 2025 season until futher notice. Hikers must not attempt to enter the grounds. Violators may face charges under the Canada National Parks Act, with a maximum penalty of $25,000.
-
+# 2026 TRAIL RESERVATIONS
+Each year, Parks Canada opens reservations on a specific date in January, known as reservation day. This is when thousands of hikers all try to book permits at the same time. The most popular dates often sell out within minutes. Parks Canada usually announces the exact reservation day by early January — for 2026, it will likely fall around January 20th.
