@@ -1,6 +1,14 @@
 [
   {
     "date": "28 JANUARY",
+    "category": "Conditions",
+    "location": "KM 33",
+    "coordinates": null,
+    "description": "Something happened at KM33. General report. Photo attached.",
+    "incidentDate": "2026-01-28T04:19:09.716Z"
+  },
+  {
+    "date": "28 JANUARY",
     "category": "Fords",
     "location": "",
     "coordinates": null,
