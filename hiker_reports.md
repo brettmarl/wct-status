@@ -1,3 +1,10 @@
+## 28 JANUARY - FORDS
+Location: 
+
+Klanawa has a nice bar formed. No cablecar needed.
+
+---
+
 ## 28 JANUARY - BOARDWALK
 Location: Cullite
 
