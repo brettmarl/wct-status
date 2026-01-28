@@ -1,3 +1,10 @@
+## 28 JANUARY - BUGS
+Location: Michigan
+
+skunk at michigan!
+
+---
+
 ## 28 JANUARY - CAMPS
 Location: Walbran (km 53)
 
