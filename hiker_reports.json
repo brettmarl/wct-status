@@ -1,6 +1,14 @@
 [
   {
     "date": "28 JANUARY",
+    "category": "Wildlife",
+    "location": "Trestle Creek",
+    "coordinates": null,
+    "description": "Bigfoot at Trestle Creek!",
+    "incidentDate": "2026-01-28T04:22:46.113Z"
+  },
+  {
+    "date": "28 JANUARY",
     "category": "Bugs",
     "location": "Michigan",
     "coordinates": null,
