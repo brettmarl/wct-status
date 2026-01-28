@@ -1,3 +1,10 @@
+## 28 JANUARY - CAMPS
+Location: Walbran (km 53)
+
+camp location is walbran
+
+---
+
 ## 28 JANUARY - LADDERS
 Location: Cheewhat North (km 35.7)
 
