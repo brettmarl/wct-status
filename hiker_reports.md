@@ -1,3 +1,10 @@
+## 28 JANUARY - BOARDWALK
+Location: Cullite
+
+Boardwalk in the bog is too new and shiny. Bring back the old stuff!
+
+---
+
 ## 28 JANUARY - CONDITIONS
 Location: Michigan
 
