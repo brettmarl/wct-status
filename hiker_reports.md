@@ -1,3 +1,10 @@
+## 28 JANUARY - LADDERS
+Location: Cheewhat North (km 35.7)
+
+cheewhat north is location and missing a rung
+
+---
+
 ## 28 JANUARY - WATER
 Location: 
 
