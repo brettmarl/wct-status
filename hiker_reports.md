@@ -1,3 +1,10 @@
+## 28 JANUARY - WILDLIFE
+Location: Trestle Creek
+
+Bigfoot at Trestle Creek!
+
+---
+
 ## 28 JANUARY - BUGS
 Location: Michigan
 
