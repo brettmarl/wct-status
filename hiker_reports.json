@@ -1,6 +1,14 @@
 [
   {
     "date": "28 JANUARY",
+    "category": "Ladders",
+    "location": "Cheewhat North (km 35.7)",
+    "coordinates": null,
+    "description": "cheewhat north is location and missing a rung",
+    "incidentDate": "2026-01-28T04:21:00.731Z"
+  },
+  {
+    "date": "28 JANUARY",
     "category": "Water",
     "location": "",
     "coordinates": null,
