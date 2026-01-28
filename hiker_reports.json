@@ -1,6 +1,14 @@
 [
   {
     "date": "28 JANUARY",
+    "category": "Water",
+    "location": "Trestle Creek (km 20)",
+    "coordinates": null,
+    "description": "water source location should show as Trestle",
+    "incidentDate": "2026-01-28T04:19:26.449Z"
+  },
+  {
+    "date": "28 JANUARY",
     "category": "Conditions",
     "location": "KM 33",
     "coordinates": null,
