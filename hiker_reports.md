@@ -1,4 +1,12 @@
 ## 28 JANUARY - WATER
+Location: 
+
+Water source other. in this case, the complaint is that i can no longer get water at PLH. bah. 
+
+
+---
+
+## 28 JANUARY - WATER
 Location: Trestle Creek (km 20)
 
 water source location should show as Trestle
