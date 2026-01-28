@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "date": "28 JANUARY",
+    "category": "Conditions",
+    "location": "Michigan",
+    "coordinates": null,
+    "description": "testing trail beta",
+    "incidentDate": "2026-01-28T03:14:29.654Z"
+  }
+]
