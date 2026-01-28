@@ -1,6 +1,14 @@
 [
   {
     "date": "28 JANUARY",
+    "category": "Fords",
+    "location": "",
+    "coordinates": null,
+    "description": "Klanawa has a nice bar formed. No cablecar needed.",
+    "incidentDate": "2026-01-28T04:14:06.436Z"
+  },
+  {
+    "date": "28 JANUARY",
     "category": "Boardwalk",
     "location": "Cullite",
     "coordinates": null,
