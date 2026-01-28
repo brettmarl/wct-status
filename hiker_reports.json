@@ -1,6 +1,14 @@
 [
   {
     "date": "28 JANUARY",
+    "category": "Boardwalk",
+    "location": "Cullite",
+    "coordinates": null,
+    "description": "Boardwalk in the bog is too new and shiny. Bring back the old stuff!",
+    "incidentDate": "2026-01-28T04:13:40.721Z"
+  },
+  {
+    "date": "28 JANUARY",
     "category": "Conditions",
     "location": "Michigan",
     "coordinates": null,
