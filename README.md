@@ -1,11 +1,11 @@
-# DATE 2026-05-05T08:00:00-07:00
+# DATE 2026-05-65T08:00:00-07:00
 
-# POSSIBLE CAMPFIRE BAN COMING
-A BC Coastal Fire Centre campfire ban may begin Thursday, May 7 at noon. This would include the West Coast Trail.
+# CAMPFIRE BAN IN EFFECT
+Parks Canada has confirmed the West Coast Trail will be under a campfire ban starting Thursday, May 7 at noon. The ban is expected to remain in place for the rest of the 2026 hiking season.
 
-Hikers starting soon should watch for updates as the situation develops.
+No campfires or open-flame fires are allowed. Propane cooking stoves are still allowed if used safely.
 
-[More information](https://www.cbc.ca/news/canada/british-columbia/campfire-ban-south-coast-9.7187580)
+[More information](https://blog.gov.bc.ca/bcwildfire/coastal-fire-centre-enacting-open-fire-prohibitions/)
 
 # 2026 TRAIL OPEN 
 The trail is open. First hiker-submitted report indicates dry conditions at the south end.
