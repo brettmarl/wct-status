@@ -1,4 +1,4 @@
-# DATE 2026-05-65T08:00:00-07:00
+# DATE 2026-05-06T08:00:00-07:00
 
 # CAMPFIRE BAN IN EFFECT
 Parks Canada has confirmed the West Coast Trail will be under a campfire ban starting Thursday, May 7 at noon. The ban is expected to remain in place for the rest of the 2026 hiking season.
