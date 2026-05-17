@@ -1,5 +1,12 @@
 [
   {
+    "category": "Ladders",
+    "location": "KM73 Gully (km 73)",
+    "coordinates": null,
+    "description": "The 13 rung ladder segment at the KM73 gully is missing the bottommost rung, making it a big step up/down from the platform. ",
+    "incidentDate": "2026-05-17T20:13:34.064Z"
+  },
+  {
     "category": "Conditions",
     "location": "Tsocowis",
     "coordinates": null,
