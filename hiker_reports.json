@@ -1,6 +1,13 @@
 [
   {
     "category": "Ladders",
+    "location": "KM71 Ladder (km 71)",
+    "coordinates": null,
+    "description": "KM71 Ladder missing a rung in the middle. \n",
+    "incidentDate": "2026-05-18T23:31:08.625Z"
+  },
+  {
+    "category": "Ladders",
     "location": "KM73 Gully (km 73)",
     "coordinates": null,
     "description": "Km73 ladder with four rungs missing has been repaired by guardians. Only missing the very bottom rung which was 6” off the ground so not a problem anymore. ",
