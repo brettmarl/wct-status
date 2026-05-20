@@ -1,5 +1,12 @@
 [
   {
+    "category": "Conditions",
+    "location": "Nitinaht",
+    "coordinates": null,
+    "description": "Bridge 66 looks like it's missing 2 of the 3 support beams, 1 of them likely will fail soon. no easy way around either",
+    "incidentDate": "2026-05-20T01:30:13.959Z"
+  },
+  {
     "category": "Fords",
     "location": "Walbran Creek (km 53)",
     "coordinates": null,
