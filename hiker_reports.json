@@ -1,5 +1,12 @@
 [
   {
+    "category": "Wildlife",
+    "location": "Klanawa",
+    "coordinates": null,
+    "description": "Bear strolled beach by Klanawa camp heading south, swam across and vanished into the bushes. ",
+    "incidentDate": "2026-05-21T02:30:32.334Z"
+  },
+  {
     "category": "Water",
     "location": "Klanawa (km 23)",
     "coordinates": null,
