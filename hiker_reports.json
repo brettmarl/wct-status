@@ -1,6 +1,13 @@
 [
   {
     "category": "Wildlife",
+    "location": "Darling",
+    "coordinates": null,
+    "description": "Bear hanging around camp, strolling north along the coast",
+    "incidentDate": "2026-05-23T14:35:14.570Z"
+  },
+  {
+    "category": "Wildlife",
     "location": "Klanawa",
     "coordinates": null,
     "description": "Bear strolled beach by Klanawa camp heading south, swam across and vanished into the bushes. ",
