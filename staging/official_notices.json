@@ -2,7 +2,7 @@
 
   {
     "title":"Sticky Notice",
-    "body":"This is a sticky notice from staging set to 2 line-preview. it has **some** markdown with a [Markdown Guide](https://www.markdownguide.org) link to somewhere. ",
+    "body":"This is a sticky notice from staging set to 2 line-preview. it has **some** markdown with a [Link to Some Page](https://www.markdownguide.org) link to somewhere. ",
     "previewLines": 2,
     "updated":"2026-05-15T00:00:00-07:00"
   },
