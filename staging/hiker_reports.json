@@ -1,4 +1,13 @@
 [
+  {
+    "date": "30 MAY",
+    "category": "Water",
+    "location": "Ocean",
+    "coordinates": null,
+    "description": "Tastes salty",
+    "incidentDate": "2026-05-30T04:22:46.113Z"
+  },
+ 
  {
     "date": "20 MAY",
     "category": "Water",
