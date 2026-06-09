@@ -1,16 +1,16 @@
 [
 
   {
-    "title":"Bear in Area",
-    "body":"Parks issued a [Bear in Area Notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) between Pachena and Darling. ",
+    "title":"Bear in Area Warning",
+    "body":"Parks issued a [warning](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena and Darling.",
     "bodyOld":"This is a sticky notice from staging set to 2 line-preview. it has **some** markdown with a [Link to Some Page](https://www.markdownguide.org) link to somewhere. ",
     "previewLines": 2,
     "updated":"2026-06-09T11:11:03-07:00"
   },
 
     {
-    "title":"Bear in Area Dupe",
-    "body":"Parks issued a [Bear in Area Notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) between Pachena and Darling. One more line of text here to see how it wraps.",
+    "title":"Bear in Area Warning",
+    "body":"Parks issued a [special notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena and Darling. One more line of text here to see how it wraps.",
     "bodyOld":"This is a sticky notice from staging set to 2 line-preview. it has **some** markdown with a [Link to Some Page](https://www.markdownguide.org) link to somewhere. ",
     "previewLines": 2,
     "updated":"2026-06-09T11:11:10-07:00"
