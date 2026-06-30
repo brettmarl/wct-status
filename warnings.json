@@ -6,14 +6,14 @@
             "id":"ld_cheewhat_s2",
             "km":37.5,
             "warning":"Single rung missing missing 2/3 of the way up",
-            "date:"2026-06-28"
+            "date":"2026-06-28"
           },
 
          {
             "id":"ld_logjam",
             "km":71,
             "warning":"Single rung missing near middle.",
-             "date:"2026-06-21"
+             "date":"2026-06-21"
 
           },
 
@@ -21,7 +21,7 @@
             "id":"ld_km73",
             "km":73,
             "warning":"13 run ladder is missing bottom most rung",
-            "date:"2026-05-18"
+            "date":"2026-05-18"
           }
           
       ]
