@@ -1,0 +1,25 @@
+{
+
+  "ladders" :
+      [
+          {
+            "id":"ld_cheewhat_s2",
+            "km":37.5,
+            "warning":"Single rung missing missing 2/3 of the way up"
+          },
+
+         {
+            "id":"ld_logjam",
+            "km":71,
+            "warning":"Single rung missing near middle."
+          },
+
+         {
+            "id":"ld_km73",
+            "km":73,
+            "warning":"13 run ladder is missing bottom most rung"
+          }
+          
+      ]
+
+}
