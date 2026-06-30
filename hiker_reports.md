@@ -1,1 +1,1 @@
-Hiker reports will appear once the trail opens.
+This version of Hiker Reports no longer functions. If you are reading this - please update your app to the most recent version. 
