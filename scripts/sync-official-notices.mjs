@@ -13,6 +13,6 @@ if (!Array.isArray(trailStatus.notices)) {
 }
 
 await writeFile(
-  "official_notices-test-gen.json",
+  "official_notices_v1.json",
   `${JSON.stringify(trailStatus.notices, null, 2)}\n`
 );
