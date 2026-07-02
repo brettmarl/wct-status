@@ -1,0 +1,49 @@
+{
+
+  "notices":[
+      {
+        "title":"Bear in area warning",
+        "body":"Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
+        "previewLines": 2,
+        "updated":"2026-06-09T11:11:05-07:00"
+      },
+
+      
+          {
+        "title":"Dead whale on beach",
+        "body":"A dead humpback whale on the beach between Trestle Creek and Klanawa River, near km 21. Please keep well back and continue past the area.\n\nParks staff are aware. This notice will be updated when further guidance is available.",
+        "previewLines": 2,
+        "updated":"2026-06-28T12:30:05-07:00"
+      }
+      
+    ],
+
+    "warnings": 
+    {
+       "ladders" :
+        [
+            {
+              "id":"ld_cheewhat_s2",
+              "km":37.5,
+              "warning":"Single rung missing missing 2/3 of the way up",
+              "date":"2026-06-28"
+            },
+
+          {
+              "id":"ld_logjam",
+              "km":71,
+              "warning":"Single rung missing near middle.",
+              "date":"2026-06-21"
+
+            },
+
+          {
+              "id":"ld_km73",
+              "km":73,
+              "warning":"13 rung ladder is missing bottom rung",
+              "date":"2026-05-18"
+            }
+            
+        ]
+    }
+}
