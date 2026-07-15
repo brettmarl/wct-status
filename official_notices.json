@@ -1,17 +1,20 @@
 [
-   {
-    "title":"Bear in area warning",
-    "body":"Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
+  {
+    "title": "Fire Ban in Effect",
+    "body": "Staring July 16th at noon, a fire ban is in effect for the West Coast Trail until further notice. See [fireban](https://blog.gov.bc.ca/bcwildfire/partial-category-1-campfire-prohibition-for-the-coastal-fire-centre/) for more detail.",
     "previewLines": 2,
-    "updated":"2026-06-09T11:11:05-07:00"
+    "updated": "2026-07-14T14:00:00-07:00"
   },
-
-   
-      {
-    "title":"Dead whale on beach",
-    "body":"A dead humpback whale on the beach between Trestle Creek and Klanawa River, near km 21. Please keep well back and continue past the area.\n\nParks staff are aware. This notice will be updated when further guidance is available.",
+  {
+    "title": "Bear in area warning",
+    "body": "Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
     "previewLines": 2,
-    "updated":"2026-06-28T12:30:05-07:00"
+    "updated": "2026-06-09T11:11:05-07:00"
+  },
+  {
+    "title": "Dead whale on beach",
+    "body": "A dead humpback whale on the beach between Trestle Creek and Klanawa River, near km 21. Please keep well back and continue past the area.\n\nParks staff are aware. This notice will be updated when further guidance is available.",
+    "previewLines": 2,
+    "updated": "2026-06-28T12:30:05-07:00"
   }
-   
 ]
