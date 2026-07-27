@@ -1,20 +1,16 @@
 [
+
+  {
+  "title": "Hazardous Trail Conditions",
+  "body": "Heavy rainfall has created dangerous conditions on the West Coast Trail, including high water and impassable creeks. See the [Parks Canada advisory](https://www.facebook.com/share/p/1Bbwfsu4f7/) for details.",
+  "previewLines": 3,
+  "updated": "2026-07-27T15:00:00-07:00"
+},
+  
   {
     "title": "Campfire Ban in Effect",
     "body": "A [fire ban](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/a0ecce7a-e78a-4271-bd96-58c8bbf9c914) is in effect for the West Coast Trail starting July 16th at noon until further notice. No campfires are allowed, but backpacking propane stoves are permitted.",
     "previewLines": 2,
     "updated": "2026-07-14T20:00:00-07:00"
-  },
-  {
-    "title": "Bear in area warning",
-    "body": "Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
-    "previewLines": 2,
-    "updated": "2026-06-09T11:11:05-07:00"
-  },
-  {
-    "title": "Dead whale on beach",
-    "body": "A dead humpback whale on the beach between Trestle Creek and Klanawa River, near km 21. Please keep well back and continue past the area.\n\nParks staff are aware. This notice will be updated when further guidance is available.",
-    "previewLines": 2,
-    "updated": "2026-06-28T12:30:05-07:00"
   }
 ]
