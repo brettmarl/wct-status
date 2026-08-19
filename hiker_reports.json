@@ -1,5 +1,13 @@
 [
   {
+    "reportId": "MS2c49k0hdUH96qd82qw",
+    "category": "Bugs",
+    "location": "KM71 - Highest Point",
+    "coordinates": null,
+    "description": "Active wasp nest near the barrel at the Highest Point (KM 71). ",
+    "incidentDate": "2026-08-19T00:17:06.843Z"
+  },
+  {
     "reportId": "0eRh51zFhZE1JgCZzDhu",
     "category": "Wildlife",
     "location": "KM 1",
