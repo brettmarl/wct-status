@@ -20,6 +20,23 @@
 
     "warnings": 
     {
+       "general" :
+        [
+            {
+            "id":"wasp_nest_high_point",
+            "gps":[48.5642847, -124.4582138],
+            "warning":"Active wasp nest close to barrel at highpoint. Probably a ground nest, watch the trail carefully.",
+             "date":"2026-08-18"
+            },
+
+            {
+            "id":"confusing_trail_logjam",
+            "gps":[48.5629539, -124.4698394],
+            "warning":"When going southbound, watch out for the trail after crossing log jam. It gets confusing where the real trail is, it climbs up on your left.",
+             "date":"2026-08-18"
+            }
+        ],
+      
        "ladders" :
         [
             {
