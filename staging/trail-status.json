@@ -56,7 +56,10 @@
       "type": "attachment",
       "attachTo": "ld_cheewhat_s2",
       "text": "Single rung missing half way up.",
-      "date": "2026-06-28"
+      "date": "2026-08-22",
+      "firstReported": "2026-06-28",
+      "confirmCount": 1,
+      "rejectCount": 0
     },
     {
       "type": "attachment",
