@@ -28,7 +28,8 @@
       "type": "pin",
       "id": "wasp_nest_km_73",
       "gps": [
-       48.5704479, -124.4379088
+        48.5704479,
+        -124.4379088
       ],
       "title": "Wasp Nest",
       "text": "Wasp nest in ground just a foot off the trail about 100m north of KM73 ladders.",
@@ -49,7 +50,10 @@
         -124.4698394
       ],
       "text": "When going southbound, watch out for the trail after crossing log jam. It gets confusing where the real trail is, it climbs up on your left.",
-      "date": "2026-08-18"
+      "date": "2026-08-18",
+      "firstReported": "2026-08-18",
+      "confirmCount": 0,
+      "rejectCount": 1
     },
     {
       "type": "attachment",
@@ -58,7 +62,7 @@
       "date": "2026-08-22",
       "firstReported": "2026-06-28",
       "confirmCount": 2,
-      "rejectCount": 0
+      "rejectCount": 1
     },
     {
       "type": "attachment",
