@@ -19,9 +19,9 @@
       "attachTo": "wp_high_point",
       "title": "Wasp Nest",
       "text": "Active wasp nest close to barrel at highpoint, most likely ground nest.",
-      "date": "2026-08-18",
+      "date": "2026-08-23",
       "firstReported": "2026-08-18",
-      "confirmCount": 0,
+      "confirmCount": 1,
       "rejectCount": 1
     },
     {
@@ -53,7 +53,7 @@
       "date": "2026-08-18",
       "firstReported": "2026-08-18",
       "confirmCount": 0,
-      "rejectCount": 1
+      "rejectCount": 2
     },
     {
       "type": "attachment",
