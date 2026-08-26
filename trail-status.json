@@ -1,20 +1,19 @@
 {
-  "notices":[
-  {
-    "title": "Campfire Ban in Effect",
-    "body": "A [fire ban](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/a0ecce7a-e78a-4271-bd96-58c8bbf9c914) is in effect for the West Coast Trail starting July 16th at noon until further notice. No campfires are allowed, but backpacking propane stoves are permitted.",
-    "previewLines": 2,
-    "updated": "2026-07-14T20:00:00-07:00"
-  },
-  {
-    "title":"Bear in area warning",
-    "body":"Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
-    "previewLines": 2,
-    "updated":"2026-06-09T11:11:05-07:00"
-   }],
-
-
-   "warnings": [
+  "notices": [
+    {
+      "title": "Campfire Ban in Effect",
+      "body": "A [fire ban](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/a0ecce7a-e78a-4271-bd96-58c8bbf9c914) is in effect for the West Coast Trail starting July 16th at noon until further notice. No campfires are allowed, but backpacking propane stoves are permitted.",
+      "previewLines": 2,
+      "updated": "2026-07-14T20:00:00-07:00"
+    },
+    {
+      "title": "Bear in area warning",
+      "body": "Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
+      "previewLines": 2,
+      "updated": "2026-06-09T11:11:05-07:00"
+    }
+  ],
+  "warnings": [
     {
       "type": "attachment",
       "attachTo": "wp_high_point",
@@ -25,7 +24,10 @@
     {
       "type": "pin",
       "id": "wasp_nest_km_73",
-      "gps": [48.5704479, -124.4379088],
+      "gps": [
+        48.5704479,
+        -124.4379088
+      ],
       "title": "Wasp Nest",
       "text": "Wasp nest in ground just a foot off the trail about 100m north of KM73 ladders.",
       "date": "2026-08-20"
@@ -40,9 +42,15 @@
       "type": "pin",
       "id": "confusing_trail_logjam",
       "title": "Confusing Trail",
-      "gps": [48.5629539, -124.4698394],
+      "gps": [
+        48.5629539,
+        -124.4698394
+      ],
       "text": "When going southbound, watch out for the trail after crossing log jam. It gets confusing where the real trail is, it climbs up on your left.",
-      "date": "2026-05-26"
+      "date": "2026-05-26",
+      "firstReported": "2026-05-26",
+      "confirmCount": 0,
+      "rejectCount": 1
     },
     {
       "type": "attachment",
