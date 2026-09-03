@@ -2,13 +2,6 @@
   "notices": [
 
     {
-  "title": "Heavy Rain and Hazardous Coastal Conditions",
-  "body": "Heavy rain and gale-force marine conditions are expected tonight through Wednesday. Waves and storm surge are not reflected in predicted tides, so stay well within tide limits. Creeks may become impassable—use cable cars and be prepared to wait 24+ hours for water levels to recede.",
-  "previewLines": 6,
-  "updated": "2026-09-01T16:00:00-07:00"
-},
-
-    {
   "title": "Cancellation and Delay Options",
   "body": "Due to forecast heavy rain, Parks Canada is offering refunds and delayed starts for affected hikers. [Full details](https://www.facebook.com/share/p/1YSmLsyrzG/)",
   "previewLines": 2,
@@ -16,11 +9,11 @@
 },
     
     {
-      "title": "Campfire Ban in Effect",
-      "body": "A [fire ban](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/a0ecce7a-e78a-4271-bd96-58c8bbf9c914) is in effect for the West Coast Trail starting July 16th at noon until further notice. No campfires are allowed, but backpacking propane stoves are permitted.",
-      "previewLines": 2,
-      "updated": "2026-07-14T20:00:00-07:00"
-    },
+  "title": "Campfire Ban Lifted",
+  "body": "Campfires are permitted again on the West Coast Trail as of noon September 3. [Details](https://www.facebook.com/share/p/1EQpYvpaUW/)",
+  "previewLines": 1,
+  "updated": "2026-09-03T12:00:00-07:00"
+}
     {
       "title": "Bear in area warning",
       "body": "Parks Canada issued a [Warning notice](https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/7947b16d-253e-4fcd-a2a5-7fb33efc429c) for bear activity between Pachena Bay and Darling River.",
