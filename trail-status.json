@@ -65,7 +65,10 @@
       "type": "attachment",
       "attachTo": "ld_logjam",
       "text": "Rung missing half way up and rotten boardwalk transition at top of ladder.",
-      "date": "2026-06-21"
+      "date": "2026-06-21",
+      "firstReported": "2026-06-21",
+      "confirmCount": 2,
+      "rejectCount": 1
     },
     {
       "type": "attachment",
