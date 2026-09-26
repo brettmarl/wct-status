@@ -63,15 +63,6 @@
     },
     {
       "type": "attachment",
-      "attachTo": "ld_logjam",
-      "text": "Rung missing half way up and rotten boardwalk transition at top of ladder.",
-      "date": "2026-06-21",
-      "firstReported": "2026-06-21",
-      "confirmCount": 2,
-      "rejectCount": 2
-    },
-    {
-      "type": "attachment",
       "attachTo": "ld_km73",
       "text": "13 rung ladder is missing bottom rung.",
       "date": "2026-05-18"
